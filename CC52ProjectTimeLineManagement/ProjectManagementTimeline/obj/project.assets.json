@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Faiz\\CC52ProjectTimeLineManagement\\ProjectManagementTimeline\\ProjectManagementTimeline.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\MCC52ProjectTimeLineManagement\\CC52ProjectTimeLineManagement\\ProjectManagementTimeline\\ProjectManagementTimeline.csproj",
       "projectName": "ProjectManagementTimeline",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Faiz\\CC52ProjectTimeLineManagement\\ProjectManagementTimeline\\ProjectManagementTimeline.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\MCC52ProjectTimeLineManagement\\CC52ProjectTimeLineManagement\\ProjectManagementTimeline\\ProjectManagementTimeline.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Faiz\\CC52ProjectTimeLineManagement\\ProjectManagementTimeline\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\MCC52ProjectTimeLineManagement\\CC52ProjectTimeLineManagement\\ProjectManagementTimeline\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
